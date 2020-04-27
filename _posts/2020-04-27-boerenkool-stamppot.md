@@ -31,22 +31,22 @@ recipe:
 ---
 Een heerlijke romige en smakelijke boerenkool stamppot voor 4 personen. Snel op tafel door het gebruik van aardappelpuree, en een lekkere 'bite' door de toevoeging van spekreepjes. Verdubbel de ingredienten voor meer personen, of grote eters. Ook in te vriezen als je over hebt.
 
-![Boerenkool](https://www.wortellculinair.nl/fotos/ingredienten.jpg)
+![Hoofdgerecht](https://www.wortellculinair.nl/fotos/ingredienten.jpg)
 
 De hele dag gewerkt en toch snel een echte hollandse maaltijd op tafel? Heel makkelijk door het gebruik van aardappelpuree. Let wel op dat je de speciale stamppot variant haalt, die is extra grof en past goed bij het gerecht.
 
-![Boerenkool](https://www.wortellculinair.nl/fotos/aardappelpuree.jpg)
+![Hoofdgerecht](https://www.wortellculinair.nl/fotos/aardappelpuree.jpg)
 
 De spekjes geven het gerecht een extra bite, door de lichte zoute smaak.
 
-![Boerenkool](https://www.wortellculinair.nl/fotos/spekjes.jpg)
+![Hoofdgerecht](https://www.wortellculinair.nl/fotos/spekjes.jpg)
 
 Het geheime ingredient is natuurlijk de roomboter. Die geeft het gerecht een heerlijke romige en zachte smaak. De kinderen zijn er dol op! Een zeer goede tip die ik ook van de chef-kok van een restaurant kreeg.
 
-![Boerenkool](https://www.wortellculinair.nl/fotos/roomboter.jpg)
+![Hoofdgerecht](https://www.wortellculinair.nl/fotos/roomboter.jpg)
 
 In een handomdraai zet je deze stevige schotel op tafel. 
 
-![Boerenkool](https://www.wortellculinair.nl/fotos/boerenkool-stamppot.jpg)
+![Hoofdgerecht](https://www.wortellculinair.nl/fotos/boerenkool-stamppot.jpg)
 
-Je kunt eventueel varieren door echte aardappelen te gebruiken (kost je circa 10 minuten extra voorbereidingstijd) en/of een vleugje mosterd toe te voegen voor een andere smaak.
+Eet smakelijk!
