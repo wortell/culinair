@@ -3,11 +3,11 @@ date: 2020-04-27
 title: Boerenkool Stamppot
 categories:
   - Hoofdgerecht
-featured_image: https://www.wortellculinair.nl/fotos/boerenkool-stamppot.jpg
+featured_image: https://raw.githubusercontent.com/wortell/culinair/master/fotos/boerenkool-stamppot.JPG
 recipe:
   servings: 4 personen
-  prep: 5 minutes
-  cook: 25 minutes
+  prep: 5 minuten
+  cook: 25 minuten
   ingredients_markdown: |-
     * 600 gram gesneden boerenkool 
     * 2 zakjes aardappelpuree (Maggi)
@@ -31,22 +31,22 @@ recipe:
 ---
 Een heerlijke romige en smakelijke boerenkool stamppot voor 4 personen. Snel op tafel door het gebruik van aardappelpuree, en een lekkere 'bite' door de toevoeging van spekreepjes. Verdubbel de ingredienten voor meer personen, of grote eters. Ook in te vriezen als je over hebt.
 
-![Hoofdgerecht](https://www.wortellculinair.nl/fotos/ingredienten.jpg)
+![Hoofdgerecht](https://raw.githubusercontent.com/wortell/culinair/master/fotos/ingredienten.JPG)
 
 De hele dag gewerkt en toch snel een echte hollandse maaltijd op tafel? Heel makkelijk door het gebruik van aardappelpuree. Let wel op dat je de speciale stamppot variant haalt, die is extra grof en past goed bij het gerecht.
 
-![Hoofdgerecht](https://www.wortellculinair.nl/fotos/aardappelpuree.jpg)
+![Hoofdgerecht](https://raw.githubusercontent.com/wortell/culinair/master/fotos/aardappelpuree.JPG)
 
 De spekjes geven het gerecht een extra bite, door de lichte zoute smaak.
 
-![Hoofdgerecht](https://www.wortellculinair.nl/fotos/spekjes.jpg)
+![Hoofdgerecht](https://raw.githubusercontent.com/wortell/culinair/master/fotos/spekjes.JPG)
 
 Het geheime ingredient is natuurlijk de roomboter. Die geeft het gerecht een heerlijke romige en zachte smaak. De kinderen zijn er dol op! Een zeer goede tip die ik ook van de chef-kok van een restaurant kreeg.
 
-![Hoofdgerecht](https://www.wortellculinair.nl/fotos/roomboter.jpg)
+![Hoofdgerecht](https://raw.githubusercontent.com/wortell/culinair/master/fotos/roomboter.JPG)
 
 In een handomdraai zet je deze stevige schotel op tafel. 
 
-![Hoofdgerecht](https://www.wortellculinair.nl/fotos/boerenkool-stamppot.jpg)
+![Hoofdgerecht](https://raw.githubusercontent.com/wortell/culinair/master/fotos/boerenkool-stamppot.JPG)
 
 Eet smakelijk!
