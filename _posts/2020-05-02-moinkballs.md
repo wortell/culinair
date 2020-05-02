@@ -20,8 +20,8 @@ recipe:
     * 1 tl gedroogde oregano
     * 1 tl zout
     * 1 tl gemalen peper
-    * Je favoriete barbecuerub _[mijn recept](https://wortellculinair.nl/hoofdgerecht/2020/05/01/bbq-dry-rub/)_
-    * Barbecuesaus _[mijn recept](https://wortellculinair.nl/hoofdgerecht/2020/05/01/homemade-bbq-saus/)_
+    * Je favoriete barbecuerub _[mijn recept](https://wortellculinair.nl/kruiden/2020/05/02/bbq-rub/)_
+    * Barbecuesaus _[mijn recept](https://wortellculinair.nl/saus/2020/05/02/bbq-saus/)_
 
     * Een barbecue die geschikt is voor bereiding boven indirecte hitte. Dit betekend dat het vlees niet rechtstreeks blootgesteld wordt aan de hittebron. We willen de barbecue op een lage temperatuur (± 115<sup>o</sup>C) houden en het vlees langzaam gaar roken. Voor tips over hoe dit te doen zie bijvoorbeeld de [website van Weber](https://www.weber.com/NL/nl/tips-tricks/grillmethoden/weber-49375.html). De brandstof (gas of kolen) maakt niet uit maar het is wel belangrijk dat we rook kunnen toevoegen. Bij kolen gebruik je hiervoor houtsnippers of _‘chunks’_, en voor electrische barbecue dien je zogenaamde _‘smoker box’_ te gebruiken. Bij een electrische barebecue is het helaas niet mogelijk om te roken. Je zou nog steeds de MOINK balls kunnen bereiden maar mist hierbij de rooksmaak.
     * Rookhout (liefst geen hickory of mesquite maar subtielere houtsoorten zoals appel of kers) 
