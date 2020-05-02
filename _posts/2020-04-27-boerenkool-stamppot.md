@@ -3,7 +3,7 @@ date: 2020-04-27
 title: Boerenkool Stamppot
 categories:
   - Hoofdgerecht
-featured_image: https://raw.githubusercontent.com/wortell/culinair/master/fotos/boerenkool-stamppot.JPG
+featured_image: https://raw.githubusercontent.com/wortell/culinair/master/fotos/boerenkool/boerenkool-stamppot.JPG
 recipe:
   servings: 4 personen
   prep: 5 minuten
@@ -31,22 +31,22 @@ recipe:
 ---
 Een heerlijke romige en smakelijke boerenkool stamppot voor 4 personen. Snel op tafel door het gebruik van aardappelpuree, en een lekkere 'bite' door de toevoeging van spekreepjes. Verdubbel de ingredienten voor meer personen, of grote eters. Ook in te vriezen als je over hebt.
 
-![Hoofdgerecht](https://raw.githubusercontent.com/wortell/culinair/master/fotos/ingredienten.JPG)
+![Hoofdgerecht](https://raw.githubusercontent.com/wortell/culinair/master/fotos/boerenkool/ingredienten.JPG)
 
 De hele dag gewerkt en toch snel een echte hollandse maaltijd op tafel? Heel makkelijk door het gebruik van aardappelpuree. Let wel op dat je de speciale stamppot variant haalt, die is extra grof en past goed bij het gerecht.
 
-![Hoofdgerecht](https://raw.githubusercontent.com/wortell/culinair/master/fotos/aardappelpuree.JPG)
+![Hoofdgerecht](https://raw.githubusercontent.com/wortell/culinair/master/fotos/boerenkool/aardappelpuree.JPG)
 
 De spekjes geven het gerecht een extra bite, door de lichte zoute smaak.
 
-![Hoofdgerecht](https://raw.githubusercontent.com/wortell/culinair/master/fotos/spekjes.JPG)
+![Hoofdgerecht](https://raw.githubusercontent.com/wortell/culinair/master/fotos/boerenkool/spekjes.JPG)
 
 Het geheime ingredient is natuurlijk de roomboter. Die geeft het gerecht een heerlijke romige en zachte smaak. De kinderen zijn er dol op! Een zeer goede tip die ik ook van de chef-kok van een restaurant kreeg.
 
-![Hoofdgerecht](https://raw.githubusercontent.com/wortell/culinair/master/fotos/roomboter.JPG)
+![Hoofdgerecht](https://raw.githubusercontent.com/wortell/culinair/master/fotos/boerenkool/roomboter.JPG)
 
 In een handomdraai zet je deze stevige schotel op tafel. 
 
-![Hoofdgerecht](https://raw.githubusercontent.com/wortell/culinair/master/fotos/boerenkool-stamppot.JPG)
+![Hoofdgerecht](https://raw.githubusercontent.com/wortell/culinair/master/fotos/boerenkool/boerenkool-stamppot.JPG)
 
 Eet smakelijk!
