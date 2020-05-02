@@ -3,7 +3,7 @@ date: 2020-05-02
 title: MOINK Balls
 categories:
   - Snack
-featured_image: https://raw.githubusercontent.com/wortell/culinair/master/fotos/moinkballs/_MG_9945.JPG
+featured_image: https://raw.githubusercontent.com/wortell/culinair/master/fotos/moinkballs/_MG_9945.jpg
 recipe:
   servings: 10 personen
   prep: 30 minuten
@@ -43,34 +43,34 @@ MOINK balls, de klassieke BBQ snack! Kruidige rundergehaktballetjes met bacon ge
 Je hebt er in totaal twee uur werk aan maar met deze balletjes maak je serieus indruk bij je gasten. Mocht je ze over hebben zijn ze in de koelkast te bewaren en later op te warmen. Maar vers bereid zijn ze natuurlijk het lekkerst.
 Dit recept is goed voor 30-35 MOINK balls. Lekker als snack of als hoofdgerecht. Afhankelijk van je BBQ-liefhebbende-gasten moeilijk te zeggen voor hoeveel personen. Er blijft er eigenlijk nooit een over! ;-)
 
-![moinks-op-rooster](https://raw.githubusercontent.com/wortell/culinair/master/fotos/moinkballs/_MG_9920)
+![Snack](https://raw.githubusercontent.com/wortell/culinair/master/fotos/moinkballs/_MG_9920.jpg)
 
 Je kunt ze bereiden op bijna elke kolen- of gas-barbecue. Door een temperatuur te hanteren van ± 115<sup>o</sup>C roken we de balletjes langzaam gaar.
 
-![bbq-deksel](https://raw.githubusercontent.com/wortell/culinair/master/fotos/moinkballs/_MG_9916)
+![Snack](https://raw.githubusercontent.com/wortell/culinair/master/fotos/moinkballs/_MG_9916.jpg)
 
 Houdt tijdens het bereiden altijd de deksel dicht van de barbecue! Het is heel verleidelijk om steeds even te kijken, zeker als er heerlijke geuren beginnen te ontstaan. Maar hiermee verlaat in een keer alle hitte de barbecue en duurt de bereiding langer. De Amerikanen zeggen niet voor niets: 
 > _if you’re lookin’ ye ain’t cookin’_
 
-![ingredienten](https://raw.githubusercontent.com/wortell/culinair/master/fotos/moinkballs/_MG_9881)
+![Snack](https://raw.githubusercontent.com/wortell/culinair/master/fotos/moinkballs/_MG_9881.jpg)
 
 Een goede voorbereiding is het halve werk!
 
-![gehakt-en-kruiden](https://raw.githubusercontent.com/wortell/culinair/master/fotos/moinkballs/_MG_9893)
+![Snack](https://raw.githubusercontent.com/wortell/culinair/master/fotos/moinkballs/_MG_9893.jpg)
 
 Alle ingrediënten mengen we door het gehakt welke resulteren in een heerlijk zacht en sappig resultaat.
 
-![ballen-draaien](https://raw.githubusercontent.com/wortell/culinair/master/fotos/moinkballs/_MG_9901)
+![Snack](https://raw.githubusercontent.com/wortell/culinair/master/fotos/moinkballs/_MG_9901.jpg)
 
-![ballen-met-rub](https://raw.githubusercontent.com/wortell/culinair/master/fotos/moinkballs/_MG_9905)
+![Snack](https://raw.githubusercontent.com/wortell/culinair/master/fotos/moinkballs/_MG_9905.jpg)
 
 De balletjes worden besprenkeld met barbecuerub. Er zijn [diverse standaard rubs te koop](https://www.bbquality.nl/product-cat/rubs/) maar je kunt deze natuurlijk ook lekker zelf maken. Zie ook mijn andere recept!
 
-![moinkmoinkmoink](https://raw.githubusercontent.com/wortell/culinair/master/fotos/moinkballs/_MG_9911)
+![Snack](https://raw.githubusercontent.com/wortell/culinair/master/fotos/moinkballs/_MG_9911.jpg)
 
 MOINK! MOINK! MOINK! Klaar om op de barbecue geplaatst te worden.
 
-![aflakken](https://raw.githubusercontent.com/wortell/culinair/master/fotos/moinkballs/_MG_9933)
+![Snack](https://raw.githubusercontent.com/wortell/culinair/master/fotos/moinkballs/_MG_9933.jpg)
 
 Nadat de balletjes een kerntemperatuur van 60<sup>o</sup>C hebben bereikt (of na ongeveer één uur) gaan we ze nog even aflakken. We laten de barbecuesaus 30 minuten indikken.
 Gebruik een standaard barbecuesaus (Sweet Baby Rays in een aanrader!) of maak je eigen saus. Zie hiervoor ook mijn andere recept.
