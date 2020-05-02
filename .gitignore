@@ -1,3 +1,8 @@
 _site/
 .sass-cache/
 .jekyll-metadata
+.vs/slnx.sqlite
+.vs/culinair/config/applicationhost.config
+.vs/culinair/v16/.suo
+.vs/culinair/v16/TestStore/0/000-0000.testlog
+.vs/culinair/v16/TestStore/0/testlog.manifest
