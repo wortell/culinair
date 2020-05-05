@@ -14,21 +14,20 @@ recipe:
     * 2 eetlepel pimenton
     * 1 theelepel chili poeder.
     * 2 theelepel grof zout
-
     * Een barbecue die geschikt ingericht voor indirecte hitte op ongeveer 150 graden. 
   directions_markdown: |-
-    Bereid een barbecue voor op indirecte hitte op ongeveer 150°C.
-    Schil de zoete aardappels en snij ze in gelijke blokjes van ongeveer 2 tot 3 cm.
-    Gooi alles in een ovenschaal en giet de olijfolie er over heen.
-    Bestrooi de blokjes met de zout, chilipoeder en de pimentón en meng alles goed door elkaar.
-    Zet de ovenschaal op de bbq en sluit het deksel.
-    De zoete aardappel is klaar als de blokjes zacht zijn geworden met een licht krokant korstje. 
+    1. Bereid een barbecue voor op indirecte hitte op ongeveer 150°C.
+    2.  Schil de zoete aardappels en snij ze in gelijke blokjes van ongeveer 2 tot 3 cm.
+    3. Gooi alles in een ovenschaal en giet de olijfolie er over heen.
+    4. Bestrooi de blokjes met de zout, chilipoeder en de pimentón en meng alles goed door elkaar.
+    5. Zet de ovenschaal op de bbq en sluit het deksel.
+    6. De zoete aardappel is klaar als de blokjes zacht zijn geworden met een licht krokant korstje. 
 ---
 Spicey Sweet Potatoes een populair bijgerecht bij een lekkere barbecue. Deze blokjes zoete aardappel geven we een klein beetje extra pit met wat chilipoeder.
 
 Schil de zoete aardappel in gelijke blokjes. reken ongeveer ¾ tot 1 zoete aardappel per persoon.
 
-![Prep](https://raw.githubusercontent.com/wortell/culinair/master/fotos/SpiceySweetPotato/1.jpg)
+![Bijgerecht](https://raw.githubusercontent.com/wortell/culinair/master/fotos/SpiceySweetPotato/1.jpg)
 
 De blokjes zoete aardappel gaan in een ovenschaal en daar giet je wat olijfolie overheen.
 Daarna bestrooi je de blokjes met wat grof zout, chilipoeder en pimentón. 
@@ -38,8 +37,7 @@ Pimentón wordt gemaakt door een pittige paprika 2 weken lang te roken met eiken
 
 Maak je handen lekker vies door alles goed te mengen of gebruik een lepel oid.
 
-![mixedup](https://raw.githubusercontent.com/wortell/culinair/master/fotos/SpiceySweetPotato/2.jpg)
-
+![Bijgerecht](https://raw.githubusercontent.com/wortell/culinair/master/fotos/SpiceySweetPotato/2.jpg)
 
 Zet de ovenschaal op de bbq en sluit het deksel.
 De zoete aardappel is klaar als de blokjes zacht zijn geworden met een licht krokant korstje. (Let op: regelmatig omscheppen en zorgen dat het niet zwart wordt)
@@ -47,10 +45,10 @@ dit duurt gemiddeld zo'n 30-45 minuten.
 
 Flame on!
 
-![Vlam](https://raw.githubusercontent.com/wortell/culinair/master/fotos/SpiceySweetPotato/3.jpg)
+![Bijgerecht](https://raw.githubusercontent.com/wortell/culinair/master/fotos/SpiceySweetPotato/3.jpg)
 
 Geniet!
 
-![MMMM](https://raw.githubusercontent.com/wortell/culinair/master/fotos/SpiceySweetPotato/4.jpg)
+![Bijgerecht](https://raw.githubusercontent.com/wortell/culinair/master/fotos/SpiceySweetPotato/4.jpg)
 
 Creds to BBQ-helden.nl voor dit recept.
