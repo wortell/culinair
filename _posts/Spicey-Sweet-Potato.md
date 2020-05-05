@@ -3,7 +3,7 @@ date: 2020-05-05
 title: Spicey Sweet Potato
 categories:
   - Bijgerecht
-featured_image: 
+featured_image: ![Prep](https://raw.githubusercontent.com/wortell/culinair/master/fotos/SpiceySweetPotato/1.jpg)
 recipe:
   servings: 4 personen
   prep: 30 minuten
@@ -14,8 +14,8 @@ recipe:
     * 2 eetlepel pimenton
     * 1 theelepel chili poeder.
     * 2 theelepel grof zout
-
     * Een barbecue die geschikt ingericht voor indirecte hitte op ongeveer 150 graden. 
+    
   directions_markdown: |-
     Bereid een barbecue voor op indirecte hitte op ongeveer 150°C.
     Schil de zoete aardappels en snij ze in gelijke blokjes van ongeveer 2 tot 3 cm.
