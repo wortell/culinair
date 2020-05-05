@@ -23,9 +23,9 @@ recipe:
     5. Zet de ovenschaal op de bbq en sluit het deksel.
     6. De zoete aardappel is klaar als de blokjes zacht zijn geworden met een licht krokant korstje. 
 ---
-Spicey Sweet Potatoes een populair bijgerecht bij een lekkere barbecue. Deze blokjes zoete aardappel geven we een klein beetje extra pit met wat chilipoeder.
+Spicey Sweet Potatoes, een populair bijgerecht bij een lekkere barbecue. Deze blokjes zoete aardappel geven we een klein beetje extra pit met wat chilipoeder.
 
-Schil de zoete aardappel in gelijke blokjes. reken ongeveer ¾ tot 1 zoete aardappel per persoon.
+Schil de zoete aardappel in gelijke blokjes. reken ongeveer drievierde tot 1 zoete aardappel per persoon.
 
 ![Bijgerecht](https://raw.githubusercontent.com/wortell/culinair/master/fotos/SpiceySweetPotato/1.jpg)
 
@@ -33,6 +33,7 @@ De blokjes zoete aardappel gaan in een ovenschaal en daar giet je wat olijfolie 
 Daarna bestrooi je de blokjes met wat grof zout, chilipoeder en pimentón. 
 
 Pimentón is gerookt paprika poeder. Let op. Pimentón is niet zomaar parikapoeder. Paprikapoeder is gemaakt van gemalen gedroogde puntpaprika’s.
+
 Pimentón wordt gemaakt door een pittige paprika 2 weken lang te roken met eikenhout waarna de zaadlijsten verwijdert wordt en de rest vermalen wordt tot poeder. Dat is een hoop werk voor dit poeder maar dat proef je ook terug. er zijn meerdere varianten zoals "Sweet" en "Spicey". Ik gebruik "Sweet" voor dit recept.
 
 Maak je handen lekker vies door alles goed te mengen of gebruik een lepel oid.
