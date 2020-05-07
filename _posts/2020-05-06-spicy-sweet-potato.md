@@ -45,10 +45,10 @@ Zet de ovenschaal op de bbq en sluit het deksel. De zoete aardappel is klaar als
 
 Flame on!
 
-![Bijgerecht](https://raw.githubusercontent.com/wortell/culinair/master/fotos/spicysweetpotato/1.jpg)
+![Bijgerecht](https://raw.githubusercontent.com/wortell/culinair/master/fotos/spicysweetpotato/3.jpg)
 
 Geniet!
 
-![Bijgerecht](https://raw.githubusercontent.com/wortell/culinair/master/fotos/spicysweetpotato/1.jpg)
+![Bijgerecht](https://raw.githubusercontent.com/wortell/culinair/master/fotos/spicysweetpotato/4.jpg)
 
 Creds to [BBQ-helden.nl](http://www.bbq-helden.nl) voor dit recept!
