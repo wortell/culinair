@@ -97,4 +97,22 @@ Als deze laag ook compleet is leggen wij er een laag van het mengsel erop:
 
 ![Nagerecht](https://raw.githubusercontent.com/wortell/culinair/master/fotos/tiramisu/6.1.resultaat.jpg)
 
+Nu komt het moeilijkste deel, de Tiramisu moet koelen zodat deze mooi stijf wordt.
 
+Dit duurt minimaal 2 uur, echter laat ik deze zelf het liefste 24 uur staan.
+
+Als de Tiramisu mooi stijf is gaan wij hem afmaken:
+
+![Nagerecht](https://raw.githubusercontent.com/wortell/culinair/master/fotos/tiramisu/7.1.finishing.jpg)
+
+Zelf kies ik er altijd voor om de cacao pas op het moment van serveren erop te doen.
+
+Daarom maken wij eerst een mooie portie:
+
+![Nagerecht](https://raw.githubusercontent.com/wortell/culinair/master/fotos/tiramisu/7.2.klaar.jpg)
+
+En vervolgens doen wij er cacao op en versieren wij het bord om het af te maken:
+
+![Nagerecht](https://raw.githubusercontent.com/wortell/culinair/master/fotos/tiramisu/7.3.end.result.jpg)
+
+Buon appetito!
