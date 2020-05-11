@@ -49,7 +49,7 @@ Blijf deze mixen tot het een mooie massa wordt:
 
 ![Nagerecht](https://raw.githubusercontent.com/wortell/culinair/master/fotos/tiramisu/2.2.mixen.jpg)
 
-Vervolgens gaan wij de slagroom stijf kloppen en het mengsel van eiwit maken.
+Vervolgens gaan wij de slagroom stijfkloppen en het mengsel van eiwit maken.
 
 Hiervoor hebben wij het volgende nodig:
 
