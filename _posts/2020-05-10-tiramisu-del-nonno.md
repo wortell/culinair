@@ -29,7 +29,7 @@ recipe:
     8. Week de lange vingers in het koffie mengsel.
     9. Bouw de Tiramisu en bestuif deze naar wens met gezeefde cacao
 ----
-Dit recept heb ik van mijn vader geleerd, die het in verschillende Italiaanse restaurants heeft gebruikt, daarnaast is hij sinds 2018 de opa van onze zoon. Vandaar Tiramisu del nonno.
+Dit recept heb ik van mijn vader geleerd, die het in verschillende Italiaanse restaurants heeft gebruikt, daarnaast is hij sinds 2018 de opa van onze zoon. Vandaar Tiramisu del nonno (Tiramisu van opa).
 
 Met dit recept maak je een heerlijke Tiramisu voor zeker 8 personen, maar dit kunnen er ook makkelijk 12 zijn. Het is ook mogelijk om de Tiramisu in te vriezen, echter moet deze na het ontdooien wel binnen 12 uur opgegeten worden.
 
@@ -57,21 +57,23 @@ Hiervoor hebben wij het volgende nodig:
 
 Als eerste kloppen wij de slagroom stijf, dit kan zonder suiker, echter als je dit met de hand doet of haast hebt dan zou je hier 1 eetlepen suiker aan toe kunnen voegen.
 
+Mocht je dit met de hand doen of als het een warme dag is, dan kun je natuurlijk ook eerst het eiwit mengsel maken.
+
 Daarna kloppen wij de eiwitten en 45 gram suiker stijf:
 
 ![Nagerecht](https://raw.githubusercontent.com/wortell/culinair/master/fotos/tiramisu/3.2.mixen.jpg)
 
-Als beide een mooi zijn opgeklopt, kunnen deze door elkaar heen geschept worden.
+Als beide mooi zijn opgeklopt, kunnen deze door elkaar heen geschept worden.
 
 ![Nagerecht](https://raw.githubusercontent.com/wortell/culinair/master/fotos/tiramisu/3.3.mengen.jpg)
 
-Vervolgens kan aan dit mengsel ook het mengsel van de eigelen toegevoegd worden:
+Vervolgens kan ook het mengsel van de eigelen toegevoegd worden:
 
 ![Nagerecht](https://raw.githubusercontent.com/wortell/culinair/master/fotos/tiramisu/4.1.mengen.jpg)
 
 Voordat wij de Tiramisu verder kunnen maken hebben wij een aantal kopjes caffè nodig, of zoals we in Nederland zouden zeggen espresso.
 
-Voor dit recept hebben wij veel espresso nodig, zo'n 14 kopjes afhankelijk van de maat en uiteraard ook de smaak.
+Voor dit recept hebben wij veel espresso nodig, zo'n 14 kopjes afhankelijk van de maat en uiteraard ook de uiteindelijke smaak van de Tiramisu.
 
 ![Nagerecht](https://raw.githubusercontent.com/wortell/culinair/master/fotos/tiramisu/5.1.koffie.jpg)
 
@@ -79,27 +81,27 @@ Over smaak gesproken, wij brengen de espresso verder op smaak met 45 gram suiker
 
 Dit kan natuurlijk ook gewone Amaretto zijn of bijvoorbeeld Marsala wijn.
 
-Als de espresso goed opsmaak is, kunnen de lange vingers hierin gedoopt.
+Uiteraard kan het ook met meer of minder koffie/suiker.
+
+Als de espresso vervolgens goed opsmaak is, kunnen de lange vingers hierin gedoopt worden.
 
 ![Nagerecht](https://raw.githubusercontent.com/wortell/culinair/master/fotos/tiramisu/5.2.dopen.jpg)
 
-Als de lange vingers vol zijn gezogen, overigens niet te lang want anders vallen ze uit elkaar, kunnen deze in de schaal gelegd worden:
+Doop de lange vingers niet te lang, anders vallen ze uit elkaar.
 
 ![Nagerecht](https://raw.githubusercontent.com/wortell/culinair/master/fotos/tiramisu/5.3.bouwen.jpg)
 
-En als de eerste laag van de lange vingers in de schaal is gelegd, kan er een laag van het mengsel opgelegd worden.
+En als de eerste laag lange vingers in de schaal is gelegd, kan een deel van het mengsel erop gelegd worden.
 
-Vervolgens leggen wij een tweede laag lange vingers in de schaal:
+Vervolgens leggen wij een tweede laag gedoopte lange vingers op het mengsel:
 
 ![Nagerecht](https://raw.githubusercontent.com/wortell/culinair/master/fotos/tiramisu/5.4.bouwen.jpg)
 
-Als deze laag ook compleet is leggen wij er een laag van het mengsel erop:
+Als deze laag ook compleet is leggen wij de rest van het mengsel erop:
 
 ![Nagerecht](https://raw.githubusercontent.com/wortell/culinair/master/fotos/tiramisu/6.1.resultaat.jpg)
 
-Nu komt het moeilijkste deel, de Tiramisu moet koelen zodat deze mooi stijf wordt.
-
-Dit duurt minimaal 2 uur, echter laat ik deze zelf het liefste 24 uur staan.
+Dit alles heeft nu de tijd nodig om goed stijf te worden, dit duurt minimaal 2 uur, echter laat ik deze zelf het liefste 24 uur staan.
 
 Als de Tiramisu mooi stijf is gaan wij hem afmaken:
 
@@ -111,8 +113,12 @@ Daarom maken wij eerst een mooie portie:
 
 ![Nagerecht](https://raw.githubusercontent.com/wortell/culinair/master/fotos/tiramisu/7.2.klaar.jpg)
 
-En vervolgens doen wij er cacao op en versieren wij het bord om het af te maken:
+En strooien wij er met de zeef, wat cacao poeder over heen.
+
+Hiermee kun je natuurlijk ook het bord versieren.
 
 ![Nagerecht](https://raw.githubusercontent.com/wortell/culinair/master/fotos/tiramisu/7.3.end.result.jpg)
+
+Nu kunnen wij lekker genieten van een heerlijk stuk Italiaanse Tiramisu.
 
 Buon appetito!
