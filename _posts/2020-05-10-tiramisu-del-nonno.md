@@ -37,7 +37,7 @@ Laten we beginnen, zet alle ingredienten klaar:
 
 ![Nagerecht](https://raw.githubusercontent.com/wortell/culinair/master/fotos/tiramisu/1.1.ingredienten.jpg)
 
-Wij gaan als eerste 3 mengsels maken, 1 met eigelen, 1 met slagroom en de laatste met eiwit. Als deze klaar zijn scheppen wij deze door elkaar heen zodat er een mooie luchtige massa ontstaat.
+Wij gaan beginnen met het maken van 3 mengsels, 1 met eigelen, 1 met slagroom en de laatste met eiwit. Zodra deze klaar zijn, scheppen wij alle mengsels bij elkaar en roeren dit rustig door elkaar heen, zodat het een luchtig mengsel blijft.
 
 Als eerste het mengsel van de eigelen:
 
