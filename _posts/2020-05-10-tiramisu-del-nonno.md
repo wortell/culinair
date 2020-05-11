@@ -5,7 +5,7 @@ categories:
   - Nagerecht
 featured_image: https://raw.githubusercontent.com/wortell/culinair/master/fotos/tiramisu/0.1.Overzicht.jpg
 recipe:
-  servings: 8 tot 12 personen
+  servings: 10 tot 12 personen
   prep: 60 tot 90 minuten
   cook: Minstens 2 uur 
   ingredients_markdown: |-
@@ -29,9 +29,9 @@ recipe:
     8. Week de lange vingers in het koffie mengsel.
     9. Bouw de Tiramisu en bestuif deze naar wens met gezeefde cacao
 ----
-Dit recept heb ik van mijn vader geleerd, die het in verschillende Italiaanse restaurants heeft gebruikt, daarnaast is hij sinds 2018 de opa van onze zoon. Vandaar Tiramisu del nonno (Tiramisu van opa).
+Dit recept heb ik van mijn vader geleerd, die het in verschillende Italiaanse restaurants gebruikt heeft, daarnaast is hij sinds 2018 de opa van onze zoon. Vandaar Tiramisu del nonno (Tiramisu van opa).
 
-Met dit recept maak je een heerlijke Tiramisu voor zeker 8 personen, maar dit kunnen er ook makkelijk 12 zijn. Het is ook mogelijk om de Tiramisu in te vriezen, echter moet deze na het ontdooien wel binnen 12 uur opgegeten worden.
+Met dit recept maak je een heerlijke Tiramisu voor zeker 10 personen, maar dit kunnen er ook makkelijk 12 zijn. Het is ook mogelijk om de Tiramisu in te vriezen, echter moet deze na het ontdooien wel binnen 12 uur opgegeten worden.
 
 Laten we beginnen, zet alle ingredienten klaar:
 
