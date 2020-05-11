@@ -28,7 +28,7 @@ recipe:
     7. Zet de espresso en breng deze opsmaak met 45 gram suiker en de Amaretto siroop.
     8. Week de lange vingers in het koffie mengsel.
     9. Bouw de Tiramisu en bestuif deze naar wens met gezeefde cacao
-----
+---
 Dit recept heb ik van mijn vader geleerd, die het in verschillende Italiaanse restaurants gebruikt heeft, daarnaast is hij sinds 2018 de opa van onze zoon. Vandaar Tiramisu del nonno (Tiramisu van opa).
 
 Met dit recept maak je een heerlijke Tiramisu voor zeker 10 personen, maar dit kunnen er ook makkelijk 12 zijn. Het is ook mogelijk om de Tiramisu in te vriezen, echter moet deze na het ontdooien wel binnen 12 uur opgegeten worden.
