@@ -33,13 +33,11 @@ recipe:
     3. Olijven
     4. Diverse andere (Spaanse) tapas
 ---
-Lekker als bijgerecht of combineren met diverse andere (Spaanse) hapjes.
-
-Aardappelschijfjes, uit en knoflook laten garen in de koekenpan
+Lekker als bijgerecht of combineren met diverse andere (Spaanse) hapjes. Aardappelschijfjes, uit en knoflook laten garen in de koekenpan
 
 ![Bijgerecht](https://raw.githubusercontent.com/wortell/culinair/master/fotos/tortilla/Tortilla1.jpg)
 
-De gebakken stukjes Chorizo (sorry voor de slechte foto)
+De gebakken stukjes Chorizo
 
 ![Bijgerecht](https://raw.githubusercontent.com/wortell/culinair/master/fotos/tortilla/Tortilla2.jpg)
 
