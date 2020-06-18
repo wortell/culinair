@@ -1,8 +1,9 @@
+---
+date: 2020-06-18
 title: Spaanse aardappeltortilla
 categories:
   - Bijgerecht
 featured_image: https://raw.githubusercontent.com/wortell/culinair/master/fotos/tortilla/Tortilla5.jpg
-
 recipe:
   servings: 6-8 personen
   prep: 10 minuten
