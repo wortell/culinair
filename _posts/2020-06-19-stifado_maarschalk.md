@@ -3,7 +3,7 @@ date: 2020-06-19
 title: Stifado á la Maarschalk
 categories:
   - Hoofdgerecht
-featured_image: https://raw.githubusercontent.com/wortell/culinair/master/fotos/stifado/stifado.JPG
+featured_image: https://raw.githubusercontent.com/mdmaarschalk/culinair/master/fotos/stifado/stifado.jpg
 recipe:
   servings: 4 personen
   prep: 30 minuten
