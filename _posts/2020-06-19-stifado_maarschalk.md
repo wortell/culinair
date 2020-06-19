@@ -39,6 +39,6 @@ recipe:
     1. Tagliatelle koken en erbij serveren.
 
 ---
-Een heerlijke stoofschotel om van te genieten met een goed glas rode wijn. De volgende dag is het gerecht nog lekkerder, omdat de smaak van de kruiden dan nog meer zijn ingetrokken. Het probleem is vaak... het is voor die tijd al op.
+Een heerlijke stoofschotel om van te genieten met een goed glas rode wijn. De volgende dag is het gerecht nog lekkerder, omdat de smaak van de kruiden dan nog meer is ingetrokken. Het probleem is vaak... het is voor die tijd al op.
 
 Eet smakelijk!
