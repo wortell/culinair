@@ -18,10 +18,10 @@ recipe:
     * Limoen
     * Sesamzaadjes zwart/wit
 	* Peper en zout
-  directions_markdown: |-
+	
+  Instructies_ markdown: |-
     1. Verwarm olie in een pan en dep de tonijn droog.
 	Bak de tonijn aan beide kanten op hoog vuur zodat de buitenkant gebakken is en binnenin rauw blijft.
-
     2. Maak een dressing van de mayonaise, limoen en sriracha saus.
 	3. Snijd de radijsjes dun en meng met het zakje rode kool.
 	4. Maak de wraps: vul ze met dressing, radijs & rode kool, dunne slices van de gebakken tonijn met daaroverheen sesamzaad en koriander.
