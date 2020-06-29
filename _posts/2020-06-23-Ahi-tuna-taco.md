@@ -3,7 +3,7 @@ date: 2020-06-29
 title: Ahi tuna tacos
 categories:
   - Voorgerecht
-featured_image: 
+featured_image: https://github.com/SimoneWillems/culinair/blob/master/ahi%20tuna.png
 recipe:
   servings: 4 personen
   prep: 10 minuten
