@@ -7,6 +7,7 @@ featured_image: https://raw.githubusercontent.com/wortell/culinair/master/fotos/
 recipe:
   servings: 4 personen
   prep: 5 minuten
+  cook: 5 minuten
   ingredients_markdown: |-
     * 250 gram tonijnsteak (ik pak zelf yellow fin)
     * Tortillas of tacos (wat je zelf lekkerder vindt)
