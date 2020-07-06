@@ -1,5 +1,5 @@
 ---
-date: 2020-07-02
+date: 2020-07-06
 title: Tagliatelle con gamberi afosi
 categories:
   - Hoofdgerecht
@@ -74,7 +74,7 @@ Breng tegelijkertijd ruim water met een snufje zout aan de kook in een pan. Kook
 Verwarm twee diepe borden met heet water, gooi het water weg en droog de borden. Leg er dan een portie tagliatelle op het warme bord en schep daar de gamba’s in hun saus op. Druppel er nog wat citroensap overheen. Verdeel de rest van de peterselie over de borden.
 
 Voor een extra smaakervaring: bak 150 gr gerookte spekblokjes mee met de gamba’s.
-    
+
 Bijpassende wijn: Chardonnay/Viognier of een witte Cotes du Rhone Villages.
 
 ![Hoofdgerecht](https://raw.githubusercontent.com/wortell/culinair/master/fotos/Tagliatellecongamberiafosi/Pasta-Gamba-6.jpeg)
