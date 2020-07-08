@@ -33,9 +33,7 @@ recipe:
     4. Voeg de Spaanse peper en knoflook toe. Voeg hier ook een halve theelepel dijon mosterd aan toe en roer alles goed door elkaar.
     5. Gooi hier het lekvocht van de garnalen bij en de theelepel visfond (of 150 ml visbouillon van de 2 blokjes). Voeg twee eetlepels Griekse yoghurt, een halve eetlepel gembersiroop en peper en zout naar smaak toe. Knijp een eetlepel sap uit de citroen en voeg toe. Zet het vuur laag, zodat de saus warm blijft, maar niet inkookt. Voeg de helft van de peterselie toe.
     6. Verhit in een 3 el olijfolie en 30 gr boter rustig op een heet maar niet al te hoog vuur. Bak de uitgelekte gamba’s hierin tot deze mooi oranje zijn.
-    Haal intussen de twee stukken citroengras uit de saus.
-
-    Breng tegelijkertijd ruim water met een snufje zout aan de kook in een pan. Kook de verse tagliatelle beetgaar in 4 - 5 minuten.
+    Haal intussen de twee stukken citroengras uit de saus en breng tegelijkertijd ruim water met een snufje zout aan de kook in een pan. Kook de verse tagliatelle beetgaar in 4 - 5 minuten.
     7. Giet de tagliatelle af en doe deze terug in de pan. Voeg een snufje zout toe en een eetlepel Extra Vergine olijfolie. Doe een deksel op de pan en schut de pasta door elkaar heen.
     8. Verwarm twee diepe borden met heet water, gooi het water weg en droog de borden. Leg er dan een portie tagliatelle op het warme bord en schep daar de gamba’s in hun saus op. Druppel er nog wat citroensap overheen. Verdeel de rest van de peterselie over de borden en eet smakelijk!
 
