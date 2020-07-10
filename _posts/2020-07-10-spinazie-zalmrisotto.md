@@ -34,6 +34,6 @@ recipe:
     3. Geen fan van vis? Vervang de zalm door beenhamreepjes.
 
 ---
-Snel te bereiden maar o zo lekker. Risotto met zalm en spinazie.
+Snel te bereiden maar o zo lekker. Risotto met gerookte zalm en spinazie.
 
 Buon Appetito!
