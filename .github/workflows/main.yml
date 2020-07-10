@@ -1,0 +1,18 @@
+name: CI
+
+on:
+  pull_request:
+    branches:
+      - '**'
+    paths:
+    - '_posts/**'
+
+jobs:
+  validatePosts:
+    name: Validate Posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - run: ./validate.ps1
+        shell: pwsh
+        name: Run post validations
