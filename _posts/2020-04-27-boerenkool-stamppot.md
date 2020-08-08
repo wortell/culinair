@@ -13,7 +13,7 @@ recipe:
     * 2 zakjes aardappelpuree (Maggi)
     * 125 gram roomboter
     * 125 gram spekreepjes
-    * 4 braadworsten
+    * 40 braadworsten
   directions_markdown: |-
     1. Breng de boerenkool aan de kook in ruim kokend water, en kook het gedurende 20 minuten.
     2. Bak de speekreepjes totdat ze krokant zijn.
